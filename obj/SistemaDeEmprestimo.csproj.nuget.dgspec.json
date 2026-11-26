@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj": {}
+    "c:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj": {
+    "c:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
+        "projectUniqueName": "c:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
         "projectName": "SistemaDeEmprestimo",
-        "projectPath": "C:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
+        "projectPath": "c:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
         "packagesPath": "C:\\Users\\matheus_karling.EDU_FIESC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\obj\\",
+        "outputPath": "c:\\Users\\matheus_karling.EDU_FIESC\\Documents\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matheus_karling.EDU_FIESC\\AppData\\Roaming\\NuGet\\NuGet.Config"
