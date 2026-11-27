@@ -1,0 +1,37 @@
+public class MenuConsole
+{
+    public void Executar()
+    {
+     bool executando = true;
+
+while (executando)
+{
+    Console.WriteLine("1 - Usuários");
+    Console.WriteLine("2 - Equipamentos");
+    Console.WriteLine("3 - Empréstimos");
+    Console.WriteLine("0 - Sair");
+
+    Console.Write("Opção: ");
+    string? entrada = Console.ReadLine();
+
+    switch (entrada)
+    {
+        case "1":
+            // Métodos relacionados a usuários
+            break;
+        case "2":
+            // Métodos relacionados a equipamentos
+            break;
+        case "3":
+            // Métodos relacionados a empréstimos
+            break;
+        case "0":
+            executando = false;
+            break;
+        default:
+            Console.WriteLine("Opção inválida.");
+            break;
+    }
+}
+    }
+}
